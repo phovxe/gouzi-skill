@@ -1,4 +1,4 @@
-# Gouzi Landing Page Optimization Skill
+# 钩子，一款帮你提高页面转化的skill
 
 这是我的第一个 GitHub 项目：一个用于优化集合页、广告着陆页、产品页和询盘页的 Codex skill。
 
