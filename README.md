@@ -1,8 +1,8 @@
 # Gouzi Landing Page Optimization Skill
 
-这是我的第一个 GitHub 项目：一个用于优化 landing page、广告着陆页、产品页和询盘页的 Codex skill。
+这是我的第一个 GitHub 项目：一个用于优化集合页、广告着陆页、产品页和询盘页的 Codex skill。
 
-Gouzi 的核心目标不是单纯“把页面做得更漂亮”，而是把页面整理成一条更清晰的说服路径：先匹配用户意图，再展示价值和证据，最后用低压力、高价值的 CTA 推动用户行动。
+钩子的核心目标不是单纯“把页面做得更漂亮”，而是把页面整理成一条更清晰的说服路径：先匹配用户意图，再展示价值和证据，最后用低压力、高价值的 CTA 推动用户行动。
 
 ## 这个 Skill 能做什么
 
@@ -95,18 +95,6 @@ gouzi/
 | 优化 A | 强钩子、强视觉、单一行动 | 首屏参与率、首屏 CTA 点击率、滚动继续率 |
 | 优化 B | 品牌一致、信息清晰、B2B 产品详情 | 证据区到达率、表单启动率、合格询盘率 |
 
-## 规则库
-
-- [Landing Page 定律与规则](gouzi/references/laws-and-rules.md)
-- [Copywriting Frameworks](gouzi/references/copywriting-frameworks.md)
-- [品牌与按钮一致性规则](gouzi/references/visual-brand-and-buttons.md)
-
-## 重要边界
-
-- 不编造认证、客户评价、案例、库存、倒计时、交付承诺或转化数据。
-- 不把“深色、大图、动画和大按钮”本身当作转化提升证据。
-- Logo 和按钮属于品牌/组件不变量；页面布局、区块顺序和整体视觉可以按转化目标重新设计。
-- 页面上线前，应将 prototype 表单连接到真实询盘接口，并完成桌面端、移动端和事件埋点验证。
 
 ## 项目结构
 
