@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gouzi Landing Page"
+  short_description: "用钩子、AIDA递进、信任证据和一致的品牌组件优化着陆页转化"
+  default_prompt: "使用 $gouzi 审计并重构这个现有着陆页：保持原 logo 与按钮组件风格一致，同时用钩子和递进结构提升转化率。"
